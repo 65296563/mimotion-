@@ -8,7 +8,7 @@
 
 ## Github Actions 部署指南
 
-### 一、Fork 此仓库
+### 一、Fork 此仓库r
 
 ### 二、设置账号密码
 > 前往: Settings-->Secrets-->Actions-->New repository secret
@@ -17,7 +17,8 @@
 
 #### 例如
 
-![image](https://user-images.githubusercontent.com/86393520/180457841-4735aa49-6def-4c6f-92ad-f93235c505dc.png)
+![image](
+https://user-images.githubusercontent.com/86393520/180457841-4735aa49-6def-4c6f-92ad-f93235c505dc.png)
 
 #### 参数详解
 
